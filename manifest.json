@@ -1,0 +1,20 @@
+{
+  "name": "최우영스시야 주방 발주 앱",
+  "short_name": "최우영스시야 주방",
+  "start_url": "./?v=3",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15110c",
+  "icons": [
+    {
+      "src": "./icon-v3.png?v=3",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-v3.png?v=3",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
